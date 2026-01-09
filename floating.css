@@ -1,0 +1,14 @@
+.box{
+    border:1px solid red;
+    width:350px;
+    height: 160px;
+    background-color:red;
+
+}
+.container{
+    border:1px solid aqua;
+    background-color: aqua;
+    width:70px;
+    height: 20px;
+    float:right;
+}

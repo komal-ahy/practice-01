@@ -1,0 +1,22 @@
+.para{
+    background-color: pink;
+    color:blue
+
+}
+.para1{
+        background-color: blue;
+}
+#head{
+    color:blue;
+}
+.languages p{
+background-color:wheat;
+
+}
+ul>li{
+    color:red;
+}
+.demo+h1{
+    color:darkmagenta;   
+
+}

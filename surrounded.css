@@ -1,0 +1,15 @@
+.box{
+    border:2px solid red;
+    height:600px;
+    width:500px;
+    background-color: #fff2e5;
+}
+.box p{
+    /* float:inline-end; */
+    color:blue;
+    
+
+}
+.box img{
+    float:left;
+}
